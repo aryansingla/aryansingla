@@ -7,7 +7,7 @@
 I am Aryan. I like to code , travel , listening music and I have interest in Finance.
 
 - :computer: I am a Full Stack Developer.
-- 📫 Contact me here: [singlaaryan2001@gmail.com](mailto:singlaaryan2001@gmail.com)
+- 📫 Contact me here: [aryansingla1101@gmail.com](mailto:aryansingla1101@gmail.com)
 
 <hr>
 
